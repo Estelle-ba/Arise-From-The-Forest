@@ -691,7 +691,7 @@ MonoBehaviour:
   audioSource: {fileID: 0}
   buttonMenuSound: {fileID: 8300000, guid: 80d588c9f936cd642bf84069aab81176, type: 3}
   ButtonPlaySound: {fileID: 8300000, guid: e7a4dc724f7d869469553c99b7de3514, type: 3}
-  levelToLoad: testRaphou
+  levelToLoad: level design
   settingsWindow: {fileID: 1107552312}
 --- !u!82 &414024345
 AudioSource:
