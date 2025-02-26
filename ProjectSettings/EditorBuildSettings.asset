@@ -8,12 +8,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: 38523eebe65e3ce4d94a98fc590be9e7
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/testRaphou.unity
     guid: 8a1244579afe6d34eb0f206e1a83b1d7
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/level design.unity
+    guid: 111869acf62c44050bc90854201b681a
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
