@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ZeldaSolo_0: 7541973709650798033
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
