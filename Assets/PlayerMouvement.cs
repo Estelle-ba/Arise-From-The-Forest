@@ -6,7 +6,9 @@ using UnityEngine.Rendering;
 public class PlayerMouvement : MonoBehaviour
 {
     private float horizontal;
+    [SerializeField]
     private float speed = 8f;
+    [SerializeField]
     private float JumpingPower = 16f;
     private bool isFacingRight = true;
     private bool isJumping = true;
