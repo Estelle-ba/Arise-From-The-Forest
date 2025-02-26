@@ -2,6 +2,7 @@ using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine.Rendering;
+using static UnityEngine.ParticleSystem;
 
 public class PlayerMouvement : MonoBehaviour
 {
@@ -14,8 +15,14 @@ public class PlayerMouvement : MonoBehaviour
 
     private bool doubleJump = false;
 
+    private bool canDash = true;
+    private bool isDashing;
+    private float dashingPower = 24f;
+    private float dashingTime = 0.2f;
+    private float dashingCooldown = 1f;
+
     [SerializeField]
-    private float lowJumpMultiplier = 2f;
+    private float lowJumpMultiplier = 2f; 
     [SerializeField]
     private float fallMultiplier;
     [SerializeField]
@@ -24,22 +31,41 @@ public class PlayerMouvement : MonoBehaviour
     private Transform groundCheck;
     [SerializeField]
     private LayerMask groundLayer;
+    [SerializeField]
+    private ParticleSystem particles;
 
 
 
     void Update()
     {
+        if (isDashing)
+        {
+            return;
+        }
+
         horizontal = Input.GetAxisRaw("Horizontal");
 
         Jump();
 
+        if (Input.GetKeyDown(KeyCode.R) && canDash)
+        {
+            StartCoroutine(Dash());
+        }
+
         Flip();
 
+       
     }
 
 
     private void FixedUpdate()
     {
+        if (isDashing)
+        {
+            return;
+        }
+
+        if (isJumping)
         rb.linearVelocity = new Vector2(horizontal * speed, rb.linearVelocity.y);
 
         if (rb.linearVelocity.y < 0)
@@ -74,10 +100,10 @@ public class PlayerMouvement : MonoBehaviour
     private void Jump()
 
     {
-        //if (!isGrunded && !Input.GetButton("Jump"))
-        //{
-        //    doubleJump = false;
-        //}
+        if (!isGrunded && !Input.GetButton("Jump"))
+        {
+            doubleJump = false;
+        }
 
         if (Input.GetButtonDown("Jump") && isGrunded)
         {
@@ -98,6 +124,22 @@ public class PlayerMouvement : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D collision)
     {
         isGrunded = true;
+    }
+
+    private IEnumerator Dash()
+    {
+        canDash = false;
+        isDashing = true;
+        float originalGravity = rb.gravityScale;
+        rb.gravityScale = 0f;
+        rb.linearVelocity = new Vector2(transform.localScale.x * dashingPower, 0f);
+        particles.Play();
+        yield return new WaitForSeconds(dashingTime);
+        particles.Stop();
+        rb.gravityScale = originalGravity;
+        isDashing = false; 
+        yield return new WaitForSeconds(dashingCooldown);
+        canDash = true;
     }
 }
 
