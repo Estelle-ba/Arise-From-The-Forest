@@ -12,6 +12,8 @@ public class PlayerMouvement : MonoBehaviour
     private bool isJumping = true;
     private bool isGrunded = true;
 
+    private bool doubleJump = false;
+
     [SerializeField]
     private float lowJumpMultiplier = 2f;
     [SerializeField]
@@ -70,11 +72,27 @@ public class PlayerMouvement : MonoBehaviour
     }
 
     private void Jump()
+
     {
+        //if (!isGrunded && !Input.GetButton("Jump"))
+        //{
+        //    doubleJump = false;
+        //}
+
         if (Input.GetButtonDown("Jump") && isGrunded)
         {
-            isGrunded = false;
+            if (isGrunded)
+            {
+                isGrunded = false;
+                rb.linearVelocity = new Vector2(rb.linearVelocity.x, JumpingPower);
+
+                doubleJump = !doubleJump;
+            }
+        }
+        if (!isGrunded && doubleJump && Input.GetButtonDown("Jump"))
+        {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, JumpingPower);
+            isGrunded = true;
         }
     }
     private void OnCollisionEnter2D(Collision2D collision)
