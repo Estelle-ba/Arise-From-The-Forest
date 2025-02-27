@@ -199,7 +199,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      herbe3_0: 3695754843915389610
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
