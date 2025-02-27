@@ -1,0 +1,3430 @@
+fileFormatVersion: 2
+guid: 177724de9b8cbcd429beaee202690cc2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6416985627258603947
+    second: Abeille_0
+  - first:
+      213: -3254065421543107880
+    second: Abeille_1
+  - first:
+      213: 2665786195553627205
+    second: Abeille_2
+  - first:
+      213: -7047208824154476594
+    second: Abeille_3
+  - first:
+      213: 1319243201188039747
+    second: Abeille_4
+  - first:
+      213: -1772055673072462173
+    second: Abeille_5
+  - first:
+      213: -1769333932467164979
+    second: Abeille_6
+  - first:
+      213: 8918885400774023426
+    second: Abeille_7
+  - first:
+      213: 7334146351307380104
+    second: Abeille_8
+  - first:
+      213: 6206846968597193476
+    second: Abeille_9
+  - first:
+      213: -4683847257256395749
+    second: Abeille_10
+  - first:
+      213: 759432585330181633
+    second: Abeille_11
+  - first:
+      213: 1104761121889806291
+    second: Abeille_12
+  - first:
+      213: -8376743000129865820
+    second: Abeille_13
+  - first:
+      213: 3076177685271824206
+    second: Abeille_14
+  - first:
+      213: -489311714639530664
+    second: Abeille_15
+  - first:
+      213: -1704888515356825437
+    second: Abeille_16
+  - first:
+      213: -4391272058206531283
+    second: Abeille_17
+  - first:
+      213: 3972538401006711779
+    second: Abeille_18
+  - first:
+      213: -5689088718496232659
+    second: Abeille_19
+  - first:
+      213: 7796046674984659249
+    second: Abeille_20
+  - first:
+      213: 8326308701882765745
+    second: Abeille_21
+  - first:
+      213: 1834050469740847112
+    second: Abeille_22
+  - first:
+      213: -6190755909734969572
+    second: Abeille_23
+  - first:
+      213: -7543077897629800148
+    second: Abeille_24
+  - first:
+      213: -1856803351582376681
+    second: Abeille_25
+  - first:
+      213: 3184432181838351471
+    second: Abeille_26
+  - first:
+      213: 9032311465627856206
+    second: Abeille_27
+  - first:
+      213: -6546171293322479344
+    second: Abeille_28
+  - first:
+      213: -9163359446906849584
+    second: Abeille_29
+  - first:
+      213: -8894183576875644350
+    second: Abeille_30
+  - first:
+      213: -6399552721235946204
+    second: Abeille_31
+  - first:
+      213: 1977103339604451654
+    second: Abeille_32
+  - first:
+      213: -1802980706083788103
+    second: Abeille_33
+  - first:
+      213: 1133958902800683909
+    second: Abeille_34
+  - first:
+      213: 6889716864231904713
+    second: Abeille_35
+  - first:
+      213: 191508931964385949
+    second: Abeille_36
+  - first:
+      213: 4371763618142188900
+    second: Abeille_37
+  - first:
+      213: -9074249931764427255
+    second: Abeille_38
+  - first:
+      213: -3080054035239143112
+    second: Abeille_39
+  - first:
+      213: -7130140157132503554
+    second: Abeille_40
+  - first:
+      213: -8547502310845492509
+    second: Abeille_41
+  - first:
+      213: 6522710528429781888
+    second: Abeille_42
+  - first:
+      213: 7633425983812135350
+    second: Abeille_43
+  - first:
+      213: 4640378029461561855
+    second: Abeille_44
+  - first:
+      213: 4189570407854470755
+    second: Abeille_45
+  - first:
+      213: 1720910267776926511
+    second: Abeille_46
+  - first:
+      213: 3710094403336603080
+    second: Abeille_47
+  - first:
+      213: -8639752828343604124
+    second: Abeille_48
+  - first:
+      213: -5958560303725249597
+    second: Abeille_49
+  - first:
+      213: -79817502031030006
+    second: Abeille_50
+  - first:
+      213: -8319828031482226017
+    second: Abeille_51
+  - first:
+      213: -6266215788632576188
+    second: Abeille_52
+  - first:
+      213: 6969673414562177795
+    second: Abeille_53
+  - first:
+      213: -6929303742228406155
+    second: Abeille_54
+  - first:
+      213: -2104255378326212855
+    second: Abeille_55
+  - first:
+      213: -770236455682357250
+    second: Abeille_56
+  - first:
+      213: -8512915298938198005
+    second: Abeille_57
+  - first:
+      213: 1423402534861351393
+    second: Abeille_58
+  - first:
+      213: 2146662340338240585
+    second: Abeille_59
+  - first:
+      213: 1314708785465275709
+    second: Abeille_60
+  - first:
+      213: -817108842578057160
+    second: Abeille_61
+  - first:
+      213: 7880997358165517724
+    second: Abeille_62
+  - first:
+      213: 1833645825581003898
+    second: Abeille_63
+  - first:
+      213: -5507592211976513561
+    second: Abeille_64
+  - first:
+      213: -790751924161441771
+    second: Abeille_65
+  - first:
+      213: -735732765473573118
+    second: Abeille_66
+  - first:
+      213: 3305710857033303106
+    second: Abeille_67
+  - first:
+      213: 4399033370287743793
+    second: Abeille_68
+  - first:
+      213: -8844388115260969246
+    second: Abeille_69
+  - first:
+      213: 2351780240982714214
+    second: Abeille_70
+  - first:
+      213: 1756501278767807187
+    second: Abeille_71
+  - first:
+      213: 7482297886324419334
+    second: Abeille_72
+  - first:
+      213: 8486072038608035036
+    second: Abeille_73
+  - first:
+      213: 21817670671319624
+    second: Abeille_74
+  - first:
+      213: -1041829373294928295
+    second: Abeille_75
+  - first:
+      213: -1735954979386731228
+    second: Abeille_76
+  - first:
+      213: -7888322920974514760
+    second: Abeille_77
+  - first:
+      213: -7366883451711937925
+    second: Abeille_78
+  - first:
+      213: 5894279337778208943
+    second: Abeille_79
+  - first:
+      213: 1968315524612440902
+    second: Abeille_80
+  - first:
+      213: 1561127750218936912
+    second: Abeille_81
+  - first:
+      213: -8969724908284166677
+    second: Abeille_82
+  - first:
+      213: 1098710012021953113
+    second: Abeille_83
+  - first:
+      213: 8481763194436903074
+    second: Abeille_84
+  - first:
+      213: 1613540881647755847
+    second: Abeille_85
+  - first:
+      213: -5246019475454165806
+    second: Abeille_86
+  - first:
+      213: -6598082815354280277
+    second: Abeille_87
+  - first:
+      213: 3631299676322663842
+    second: Abeille_88
+  - first:
+      213: 2258067025035540566
+    second: Abeille_89
+  - first:
+      213: 7147205810566541484
+    second: Abeille_90
+  - first:
+      213: 7450550273260448288
+    second: Abeille_91
+  - first:
+      213: 5159508899594169242
+    second: Abeille_92
+  - first:
+      213: 3046050065088672658
+    second: Abeille_93
+  - first:
+      213: -7250650152674592969
+    second: Abeille_94
+  - first:
+      213: -8036529916016751782
+    second: Abeille_95
+  - first:
+      213: -5398245834939812450
+    second: Abeille_96
+  - first:
+      213: 5332899037886163331
+    second: Abeille_97
+  - first:
+      213: 5770774779985841140
+    second: Abeille_98
+  - first:
+      213: 2098137001988237248
+    second: Abeille_99
+  - first:
+      213: -8497209585086022135
+    second: Abeille_100
+  - first:
+      213: -3552405356030941470
+    second: Abeille_101
+  - first:
+      213: 3112291960786580161
+    second: Abeille_102
+  - first:
+      213: 7903653784452392666
+    second: Abeille_103
+  - first:
+      213: 2648982573458285732
+    second: Abeille_104
+  - first:
+      213: -8943465399647913547
+    second: Abeille_105
+  - first:
+      213: 5752961728790087442
+    second: Abeille_106
+  - first:
+      213: 1759684783451682283
+    second: Abeille_107
+  - first:
+      213: -1715347811347350904
+    second: Abeille_108
+  - first:
+      213: -149810099180875042
+    second: Abeille_109
+  - first:
+      213: -8638305778499167121
+    second: Abeille_110
+  - first:
+      213: 6024682879979540728
+    second: Abeille_111
+  - first:
+      213: -3559204587661650181
+    second: Abeille_112
+  - first:
+      213: -6464135845270538661
+    second: Abeille_113
+  - first:
+      213: 388484855831824471
+    second: Abeille_114
+  - first:
+      213: 2879618916976764463
+    second: Abeille_115
+  - first:
+      213: -4461506825211576005
+    second: Abeille_116
+  - first:
+      213: 3274729961069748139
+    second: Abeille_117
+  - first:
+      213: -1530746477698111351
+    second: Abeille_118
+  - first:
+      213: 2968274749443376182
+    second: Abeille_119
+  - first:
+      213: -7733334447089741458
+    second: Abeille_120
+  - first:
+      213: 8457014265764126998
+    second: Abeille_121
+  - first:
+      213: -2501527100133000284
+    second: Abeille_122
+  - first:
+      213: -7975115937285912042
+    second: Abeille_123
+  - first:
+      213: 2243729641898797141
+    second: Abeille_124
+  - first:
+      213: -9139122605012841845
+    second: Abeille_125
+  - first:
+      213: 546003526527323478
+    second: Abeille_126
+  - first:
+      213: -2148126609418582391
+    second: Abeille_127
+  - first:
+      213: -4001787796203919737
+    second: Abeille_128
+  - first:
+      213: -5558401995474964811
+    second: Abeille_129
+  - first:
+      213: -8247297048303786881
+    second: Abeille_130
+  - first:
+      213: -8837510976903445221
+    second: Abeille_131
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Abeille_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 788
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba94989ed66bd0950800000000000000
+      internalID: 6416985627258603947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 787
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d29a096dbc37d2d0800000000000000
+      internalID: -3254065421543107880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 789
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c2d11cb66cef420800000000000000
+      internalID: 2665786195553627205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_3
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 790
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf264289e8433e90800000000000000
+      internalID: -7047208824154476594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_4
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 791
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c892ba3b4ee4210800000000000000
+      internalID: 1319243201188039747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_5
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 789
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6dc4c01c46867e0800000000000000
+      internalID: -1772055673072462173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_6
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 788
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8ef3aa9201277e0800000000000000
+      internalID: -1769333932467164979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_7
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 787
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2099d89840f36cb70800000000000000
+      internalID: 8918885400774023426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_8
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 789
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8855760af3f18c560800000000000000
+      internalID: 7334146351307380104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_9
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 790
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4032272ce66232650800000000000000
+      internalID: 6206846968597193476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_10
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 791
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c7b015cb1affeb0800000000000000
+      internalID: -4683847257256395749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_11
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 789
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1064677a9eb0a8a00800000000000000
+      internalID: 759432585330181633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 694
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d767e71366e45f00800000000000000
+      internalID: 1104761121889806291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_13
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 693
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7f48e8f94dfbb80800000000000000
+      internalID: -8376743000129865820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_14
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 694
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e474c947e47c0ba20800000000000000
+      internalID: 3076177685271824206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_15
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 695
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8553978869d9539f0800000000000000
+      internalID: -489311714639530664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_16
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 696
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8638c9de40758e0800000000000000
+      internalID: -1704888515356825437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_17
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 695
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21508a34511f03c0800000000000000
+      internalID: -4391272058206531283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_18
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 695
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e37a98d0aa412730800000000000000
+      internalID: 3972538401006711779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_19
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 694
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b895ed3fb4c01b0800000000000000
+      internalID: -5689088718496232659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_20
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 693
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13963da452f113c60800000000000000
+      internalID: 7796046674984659249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_21
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 694
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b157f156adfc8370800000000000000
+      internalID: 8326308701882765745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_22
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 695
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800aa0d5f2bd37910800000000000000
+      internalID: 1834050469740847112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_23
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 696
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fc815dc44061aa0800000000000000
+      internalID: -6190755909734969572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_24
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 695
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29eca6fd9a915790800000000000000
+      internalID: -7543077897629800148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_25
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 695
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d7d23803f4b36e0800000000000000
+      internalID: -1856803351582376681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_26
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 614
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c0cc19230613c20800000000000000
+      internalID: 3184432181838351471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_27
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 593
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4daf693c67395d70800000000000000
+      internalID: 9032311465627856206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_28
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 592
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01977ae44e35725a0800000000000000
+      internalID: -6546171293322479344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_29
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 612
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6b5e1f12535d080800000000000000
+      internalID: -9163359446906849584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_30
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 605
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ac6350923819480800000000000000
+      internalID: -8894183576875644350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_31
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 616
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425d851d4b83037a0800000000000000
+      internalID: -6399552721235946204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_32
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 609
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641ac512305107b10800000000000000
+      internalID: 1977103339604451654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_33
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 592
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba2ef4b9968af6e0800000000000000
+      internalID: -1802980706083788103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_34
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 614
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58393573d91acbf00800000000000000
+      internalID: 1133958902800683909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_35
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 593
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c59f871cf03d9f50800000000000000
+      internalID: 6889716864231904713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_36
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 592
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a3d05eb5068a200800000000000000
+      internalID: 191508931964385949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_37
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 612
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465775d19df9bac30800000000000000
+      internalID: 4371763618142188900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_38
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 605
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9069116b3c9c11280800000000000000
+      internalID: -9074249931764427255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_39
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 616
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839ff8c7c237145d0800000000000000
+      internalID: -3080054035239143112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_40
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 609
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef58e5fdd47ac0d90800000000000000
+      internalID: -7130140157132503554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_41
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 592
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e259355feb216980800000000000000
+      internalID: -8547502310845492509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_42
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 600
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083f1c3baa2558a50800000000000000
+      internalID: 6522710528429781888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_43
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 596
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9eb581d706fe960800000000000000
+      internalID: 7633425983812135350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_44
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 602
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff165956b3fe56040800000000000000
+      internalID: 4640378029461561855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_45
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 595
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36677a1b618542a30800000000000000
+      internalID: 4189570407854470755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_46
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 600
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f238a2155c6e1e710800000000000000
+      internalID: 1720910267776926511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_47
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 596
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c50b02f337ec7330800000000000000
+      internalID: 3710094403336603080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_48
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 602
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c2767f39e691880800000000000000
+      internalID: -8639752828343604124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_49
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 595
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb76bb39f0fe4da0800000000000000
+      internalID: -5958560303725249597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_50
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 591
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09d490a76e64eef0800000000000000
+      internalID: -79817502031030006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_51
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 591
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a1a275c780a8c80800000000000000
+      internalID: -8319828031482226017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_52
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 595
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f6c98a0fde909a0800000000000000
+      internalID: -6266215788632576188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_53
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 591
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303667b2b0149b060800000000000000
+      internalID: 6969673414562177795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_54
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 591
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570e0bf95fa26df90800000000000000
+      internalID: -6929303742228406155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_55
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 595
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f292ad1ee2cc2e0800000000000000
+      internalID: -2104255378326212855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_56
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 500
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef74ff146029f45f0800000000000000
+      internalID: -770236455682357250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_57
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 499
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08ecc393ac0cd980800000000000000
+      internalID: -8512915298938198005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_58
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 500
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e92dce5011f0c310800000000000000
+      internalID: 1423402534861351393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_59
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 501
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cc198660a7acd10800000000000000
+      internalID: 2146662340338240585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_60
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 500
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d353ebcbca8ce3210800000000000000
+      internalID: 1314708785465275709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_61
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 499
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838ed4f36db09a4f0800000000000000
+      internalID: -817108842578057160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_62
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 500
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c956f39875dee5d60800000000000000
+      internalID: 7880997358165517724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_63
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 501
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7432adc92b627910800000000000000
+      internalID: 1833645825581003898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_64
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 406
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e79e6d401a1193b0800000000000000
+      internalID: -5507592211976513561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_65
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 405
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51096e6805fa605f0800000000000000
+      internalID: -790751924161441771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_66
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 406
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207f458a2f62ac5f0800000000000000
+      internalID: -735732765473573118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_67
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 407
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2444f93928e30ed20800000000000000
+      internalID: 3305710857033303106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_68
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 406
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133271f0b818c0d30800000000000000
+      internalID: 4399033370287743793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_69
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 405
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eeee266edb624580800000000000000
+      internalID: -8844388115260969246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_70
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 406
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667ae8d3ba333a020800000000000000
+      internalID: 2351780240982714214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_71
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 407
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da79705b98506810800000000000000
+      internalID: 1756501278767807187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_72
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 321
+        width: 58
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60be502e84676d760800000000000000
+      internalID: 7482297886324419334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_73
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 304
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc5b97de8594c570800000000000000
+      internalID: 8486072038608035036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_74
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 304
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842c03e4e038d4000800000000000000
+      internalID: 21817670671319624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_75
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 324
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e103074bdaa81f0800000000000000
+      internalID: -1041829373294928295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_76
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 317
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425559bc426a8e7e0800000000000000
+      internalID: -1735954979386731228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_77
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 321
+        width: 58
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b50eb5f81c078290800000000000000
+      internalID: -7888322920974514760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_78
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 304
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72a107388293c990800000000000000
+      internalID: -7366883451711937925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_79
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 304
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0e13714dfacc150800000000000000
+      internalID: 5894279337778208943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_80
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 324
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64349628a8cd05b10800000000000000
+      internalID: 1968315524612440902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_81
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 317
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052fdc8ea6d3aa510800000000000000
+      internalID: 1561127750218936912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_82
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 314
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedbfb438b2258380800000000000000
+      internalID: -8969724908284166677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_83
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 307
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952dbb94fe66f3f00800000000000000
+      internalID: 1098710012021953113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_84
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 312
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0e461efa645b570800000000000000
+      internalID: 8481763194436903074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_85
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 308
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7426f2902e2746610800000000000000
+      internalID: 1613540881647755847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_86
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 314
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcf5c8e4156237b0800000000000000
+      internalID: -5246019475454165806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_87
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 307
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6e23833a6ee64a0800000000000000
+      internalID: -6598082815354280277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_88
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 312
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad0430f0d7f46230800000000000000
+      internalID: 3631299676322663842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_89
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 308
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658344adef3465f10800000000000000
+      internalID: 2258067025035540566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_90
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 303
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca03d6331d9ff2360800000000000000
+      internalID: 7147205810566541484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_91
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 303
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ae0e2bffba56760800000000000000
+      internalID: 7450550273260448288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_92
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 303
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9be6c702024a9740800000000000000
+      internalID: 5159508899594169242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_93
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 303
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2937aa1456eb54a20800000000000000
+      internalID: 3046050065088672658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_94
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 212
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737f23b0a14806b90800000000000000
+      internalID: -7250650152674592969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_95
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 214
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b8509ee92887090800000000000000
+      internalID: -8036529916016751782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_96
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 215
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e953e26a3049515b0800000000000000
+      internalID: -5398245834939812450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_97
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 215
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3892a388b63420a40800000000000000
+      internalID: 5332899037886163331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_98
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 211
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbc6d76619e51050800000000000000
+      internalID: 5770774779985841140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_99
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 206
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7ac95ac741e1d10800000000000000
+      internalID: 2098137001988237248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_100
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 204
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e37ea07e8d31a80800000000000000
+      internalID: -8497209585086022135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_101
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 203
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6a49f662253bec0800000000000000
+      internalID: -3552405356030941470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_102
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 202
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2fcf77c05113b20800000000000000
+      internalID: 3112291960786580161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_103
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 202
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6e4f9dd3b6fad60800000000000000
+      internalID: 7903653784452392666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_104
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 202
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a46e2b9d9313c420800000000000000
+      internalID: 2648982573458285732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_105
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 207
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b93df08a9d62e380800000000000000
+      internalID: -8943465399647913547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_106
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 118
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21743fa3630a6df40800000000000000
+      internalID: 5752961728790087442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_107
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 120
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be53c42ccf7ab6810800000000000000
+      internalID: 1759684783451682283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_108
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 121
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ab56ef04cd138e0800000000000000
+      internalID: -1715347811347350904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_109
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 121
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2de8e2284cbedf0800000000000000
+      internalID: -149810099180875042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_110
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 117
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c5a5389a29e1880800000000000000
+      internalID: -8638305778499167121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_111
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 110
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0de81c829fb9350800000000000000
+      internalID: 6024682879979540728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_112
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 108
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf69c75f84a2b9ec0800000000000000
+      internalID: -3559204587661650181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_113
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 107
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56b7ca72b6ca46a0800000000000000
+      internalID: -6464135845270538661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_114
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 108
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75889780bec246500800000000000000
+      internalID: 388484855831824471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_115
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 106
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2625eae52676f720800000000000000
+      internalID: 2879618916976764463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_116
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 106
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3188483e2b8512c0800000000000000
+      internalID: -4461506825211576005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_117
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 111
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf14e0ac8d227d20800000000000000
+      internalID: 3274729961069748139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_118
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 106
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988af935032b1cae0800000000000000
+      internalID: -1530746477698111351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_119
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 107
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6348554782e613920800000000000000
+      internalID: 2968274749443376182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_120
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 18
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e619ce71b4dada490800000000000000
+      internalID: -7733334447089741458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_121
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 20
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6112843eaa95d5570800000000000000
+      internalID: 8457014265764126998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_122
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 21
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab3f882b5ac84dd0800000000000000
+      internalID: -2501527100133000284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_123
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 42
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a448b1f42b25190800000000000000
+      internalID: -7975115937285912042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_124
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 37
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5586465b834532f10800000000000000
+      internalID: 2243729641898797141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_125
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 31
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a877179605b2180800000000000000
+      internalID: -9139122605012841845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_126
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 11
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d85c4805bc39700800000000000000
+      internalID: 546003526527323478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_127
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 10
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9868a01ea325032e0800000000000000
+      internalID: -2148126609418582391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_128
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 10
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786a5c4a33bc678c0800000000000000
+      internalID: -4001787796203919737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_129
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 10
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be64e4b5d69cd2b0800000000000000
+      internalID: -5558401995474964811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_130
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 10
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74a9b6d707bb8d80800000000000000
+      internalID: -8247297048303786881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abeille_131
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 10
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b150e03f69ada5580800000000000000
+      internalID: -8837510976903445221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
