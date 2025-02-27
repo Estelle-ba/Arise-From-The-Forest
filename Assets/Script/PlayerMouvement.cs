@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine.Rendering;
 using static UnityEngine.ParticleSystem;
+using UnityEngine.Scripting.APIUpdating;
 
 public class PlayerMouvement : MonoBehaviour
 {
@@ -22,6 +23,8 @@ public class PlayerMouvement : MonoBehaviour
     private float dashingCooldown = 1f;
 
     [SerializeField]
+    private Animator animator;
+    [SerializeField]
     private float lowJumpMultiplier = 2f; 
     [SerializeField]
     private float fallMultiplier;
@@ -35,6 +38,11 @@ public class PlayerMouvement : MonoBehaviour
     private ParticleSystem particles;
 
 
+    void Start()
+    {
+        isFacingRight = true;
+        rb = GetComponent<Rigidbody2D>();
+    }
 
     void Update()
     {
@@ -50,13 +58,14 @@ public class PlayerMouvement : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.R) && canDash)
         {
             StartCoroutine(Dash());
+            animator.SetBool("isDashing", true);
         }
+        
 
         Flip();
 
        
     }
-
 
     private void FixedUpdate()
     {
@@ -65,8 +74,19 @@ public class PlayerMouvement : MonoBehaviour
             return;
         }
 
-        if (isJumping)
+        
         rb.linearVelocity = new Vector2(horizontal * speed, rb.linearVelocity.y);
+
+
+        if (horizontal != 0 && isGrunded)
+        {
+            animator.SetBool("isRunning", true); 
+        }
+        else
+        {
+            animator.SetBool("isRunning", false); 
+        }
+
 
         if (rb.linearVelocity.y < 0)
         {
@@ -111,19 +131,22 @@ public class PlayerMouvement : MonoBehaviour
             {
                 isGrunded = false;
                 rb.linearVelocity = new Vector2(rb.linearVelocity.x, JumpingPower);
-
+                animator.SetBool("isJumping", true);
                 doubleJump = !doubleJump;
             }
         }
         if (!isGrunded && doubleJump && Input.GetButtonDown("Jump"))
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, JumpingPower);
+            animator.SetBool("isSalto", true);
             isGrunded = true;
         }
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
         isGrunded = true;
+        animator.SetBool("isJumping", false);
+        animator.SetBool("isSalto",false);
     }
 
     private IEnumerator Dash()
@@ -137,9 +160,11 @@ public class PlayerMouvement : MonoBehaviour
         yield return new WaitForSeconds(dashingTime);
         particles.Stop();
         rb.gravityScale = originalGravity;
-        isDashing = false; 
+        isDashing = false;
+       
         yield return new WaitForSeconds(dashingCooldown);
         canDash = true;
+        animator.SetBool("isDashing", false);
     }
 }
 
