@@ -1,5 +1,6 @@
 using UnityEngine;
 using System.Collections;
+using UnityEngine.SceneManagement;
 using System.Collections.Generic;
 using UnityEngine.Rendering;
 using static UnityEngine.ParticleSystem;
@@ -124,6 +125,11 @@ public class PlayerMouvement : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D collision)
     {
         isGrunded = true;
+        if (collision.gameObject.CompareTag("Enemy")) // Vérifie si l'objet touché est un ennemi
+        {
+            Debug.Log("Collision avec un ennemi !");
+            SceneManager.LoadScene("testRaphou");
+        }
     }
 
     private IEnumerator Dash()
