@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 using System.Collections;
 using UnityEngine.SceneManagement;
@@ -127,8 +128,14 @@ public class PlayerMouvement : MonoBehaviour
         isGrunded = true;
         if (collision.gameObject.CompareTag("Enemy")) // Vérifie si l'objet touché est un ennemi
         {
-            Debug.Log("Collision avec un ennemi !");
-            SceneManager.LoadScene("testRaphou");
+            
+            SceneManager.LoadScene("(1)levelfinal");
+        }
+        
+        else if (collision.gameObject.CompareTag("Fin"))
+        {
+            
+            SceneManager.LoadScene("Credits");
         }
     }
 

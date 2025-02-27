@@ -20,7 +20,7 @@ public class MainMenu : MonoBehaviour
 
         audioSource.clip = ButtonPlaySound;
         audioSource.Play();
-        SceneManager.LoadScene(levelToLoad);
+        SceneManager.LoadScene("(1)levelfinal");
 
     }
     public void SettingsButton(){

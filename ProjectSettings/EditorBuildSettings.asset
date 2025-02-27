@@ -8,18 +8,21 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: 38523eebe65e3ce4d94a98fc590be9e7
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/testRaphou.unity
     guid: 8a1244579afe6d34eb0f206e1a83b1d7
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/(1)levelfinal.unity
+    guid: 87fffc1f5433ed748b9dc1de75d5dfed
   - enabled: 0
     path: Assets/Scenes/levelfinal.unity
     guid: 111869acf62c44050bc90854201b681a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/level design
-    guid: e338f747bcc7846f1a8a9c44ea0be2f3
+    guid: 9b64a77bd5f8c904db2372ece1b77c3d
   - enabled: 1
     path: Assets/Scenes/credits.unity
     guid: b25835d856b2a094e9d9184ef966548c

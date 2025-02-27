@@ -63,7 +63,7 @@ public class PauseMenu : MonoBehaviour{
     public void Replay(){
         
         Resume();
-        SceneManager.LoadScene("testRaphou");
+        SceneManager.LoadScene("(1)levelfinal");
     }
     
 }
