@@ -199,7 +199,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      breathe2_0: 5565364532147588595
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
