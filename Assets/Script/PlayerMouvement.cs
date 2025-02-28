@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 using System.Collections.Generic;
 using UnityEngine.Rendering;
 using static UnityEngine.ParticleSystem;
+using UnityEngine.Scripting.APIUpdating;
 
 public class PlayerMouvement : MonoBehaviour
 {
@@ -12,7 +13,7 @@ public class PlayerMouvement : MonoBehaviour
     [SerializeField]
     private float speed = 8f;
     [SerializeField]
-    private float JumpingPower = 16f;
+    private float JumpingPower = 20f;
     private bool isFacingRight = true;
     private bool isJumping = true;
     private bool isGrunded = true;
@@ -25,6 +26,8 @@ public class PlayerMouvement : MonoBehaviour
     private float dashingTime = 0.2f;
     private float dashingCooldown = 1f;
 
+    [SerializeField]
+    private Animator animator;
     [SerializeField]
     private float lowJumpMultiplier = 2f; 
     [SerializeField]
@@ -39,12 +42,14 @@ public class PlayerMouvement : MonoBehaviour
     private ParticleSystem particles;
     
     private Camera camera;
-    void Awake()
-    {
+    void Start(){
         camera = GameObject.Find("/Player/Main Camera").GetComponent<Camera>();
         
         transform.position = new Vector3(-315.8f, -22.6f, 0);
         camera.transform.position = new Vector3(-315.8f, -22.6f, -10);
+        
+        isFacingRight = true;
+        rb = GetComponent<Rigidbody2D>();
     }
 
     void Update()
@@ -61,13 +66,14 @@ public class PlayerMouvement : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.R) && canDash)
         {
             StartCoroutine(Dash());
+            animator.SetBool("isDashing", true);
         }
+        
 
         Flip();
 
        
     }
-
 
     private void FixedUpdate()
     {
@@ -76,8 +82,19 @@ public class PlayerMouvement : MonoBehaviour
             return;
         }
 
-        if (isJumping)
+        
         rb.linearVelocity = new Vector2(horizontal * speed, rb.linearVelocity.y);
+
+
+        if (horizontal != 0 && isGrunded)
+        {
+            animator.SetBool("isRunning", true); 
+        }
+        else
+        {
+            animator.SetBool("isRunning", false); 
+        }
+
 
         if (rb.linearVelocity.y < 0)
         {
@@ -111,34 +128,33 @@ public class PlayerMouvement : MonoBehaviour
     private void Jump()
 
     {
-        if (!isGrunded && !Input.GetButton("Jump"))
-        {
-            doubleJump = false;
-        }
 
-        if (Input.GetButtonDown("Jump") && isGrunded)
+        if (Input.GetButtonDown("Jump"))
         {
             if (isGrunded)
             {
                 isGrunded = false;
                 rb.linearVelocity = new Vector2(rb.linearVelocity.x, JumpingPower);
-
-                doubleJump = !doubleJump;
+                animator.SetBool("isJumping", true);
+            } else if (doubleJump)
+            {
+                doubleJump = false;
+                rb.linearVelocity = new Vector2(rb.linearVelocity.x, JumpingPower);
+                animator.SetBool("isSalto", true);
+                isGrunded = true;
             }
-        }
-        if (!isGrunded && doubleJump && Input.GetButtonDown("Jump"))
-        {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, JumpingPower);
-            isGrunded = true;
         }
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
         isGrunded = true;
+        doubleJump = true;
+        animator.SetBool("isJumping", false);
+        animator.SetBool("isSalto",false);
         if (collision.gameObject.CompareTag("Enemy")) // Vérifie si l'objet touché est un ennemi
         {
             
-            SceneManager.LoadScene("(1)levelfinal");
+            SceneManager.LoadScene("Level1");
         }
         
         else if (collision.gameObject.CompareTag("Fin"))
@@ -159,9 +175,11 @@ public class PlayerMouvement : MonoBehaviour
         yield return new WaitForSeconds(dashingTime);
         particles.Stop();
         rb.gravityScale = originalGravity;
-        isDashing = false; 
+        isDashing = false;
+       
         yield return new WaitForSeconds(dashingCooldown);
         canDash = true;
+        animator.SetBool("isDashing", false);
     }
 }
 
