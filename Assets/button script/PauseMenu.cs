@@ -63,7 +63,7 @@ public class PauseMenu : MonoBehaviour{
     public void Replay(){
         
         Resume();
-        SceneManager.LoadScene("(1)levelfinal");
+        SceneManager.LoadScene("Level1");
     }
     
 }
