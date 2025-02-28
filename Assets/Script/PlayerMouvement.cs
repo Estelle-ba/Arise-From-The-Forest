@@ -120,31 +120,27 @@ public class PlayerMouvement : MonoBehaviour
     private void Jump()
 
     {
-        if (!isGrunded && !Input.GetButton("Jump"))
-        {
-            doubleJump = false;
-        }
 
-        if (Input.GetButtonDown("Jump") && isGrunded)
+        if (Input.GetButtonDown("Jump"))
         {
             if (isGrunded)
             {
                 isGrunded = false;
                 rb.linearVelocity = new Vector2(rb.linearVelocity.x, JumpingPower);
                 animator.SetBool("isJumping", true);
-                doubleJump = !doubleJump;
+            } else if (doubleJump)
+            {
+                doubleJump = false;
+                rb.linearVelocity = new Vector2(rb.linearVelocity.x, JumpingPower);
+                animator.SetBool("isSalto", true);
+                isGrunded = true;
             }
-        }
-        if (!isGrunded && doubleJump && Input.GetButtonDown("Jump"))
-        {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, JumpingPower);
-            animator.SetBool("isSalto", true);
-            isGrunded = true;
         }
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
         isGrunded = true;
+        doubleJump = true;
         animator.SetBool("isJumping", false);
         animator.SetBool("isSalto",false);
     }
