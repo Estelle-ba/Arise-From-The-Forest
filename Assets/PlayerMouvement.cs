@@ -37,8 +37,15 @@ public class PlayerMouvement : MonoBehaviour
     private LayerMask groundLayer;
     [SerializeField]
     private ParticleSystem particles;
-
-
+    
+    private Camera camera;
+    void Awake()
+    {
+        camera = GameObject.Find("/Player/Main Camera").GetComponent<Camera>();
+        
+        transform.position = new Vector3(-315.8f, -22.6f, 0);
+        camera.transform.position = new Vector3(-315.8f, -22.6f, -10);
+    }
 
     void Update()
     {
