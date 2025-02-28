@@ -10,9 +10,4 @@ public class AudioManager : MonoBehaviour
         audioSource.clip = playlist[0];
         audioSource.Play();
     }
-
-    void Update(){
-
-
-    }
 }

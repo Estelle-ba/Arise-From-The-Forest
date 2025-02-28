@@ -34,6 +34,11 @@ public class MainMenu : MonoBehaviour
         audioSource.Play();
         settingsWindow.SetActive(false);
     }
+    
+    public void OpenCredits(){
+        SceneManager.LoadScene("credits");
+        
+    }
 
 
     public void QuitGame(){
